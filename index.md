@@ -1,29 +1,23 @@
 # Portfolio
----
 ## Data Analysis Projects 
-
+---
 ### Personal Finance project
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+After graduating with Data Analysis course from Code Clan, I have decided to do analysis over one year of my bank transactions using new tools such as R and Shiny.
+The user can explore and visualise the annual spends and gains by categories and monthly spends and gains by categories. The app has info boxes which point for the month and category with the highest spend/gain and table with top spends/gains over the chosen month.
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vpetrova13/annual_finances_VM)
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<center><img src="images/xxx.png"/></center>
+
 
 ---
 
-### Category Name 2
+---
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+---
+
+
 
 ---
 
