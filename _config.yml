@@ -1,11 +1,19 @@
-title: Veronika Moroz # your name (or website title) here
-logo: "/images/photo_2020-10-05_18-33-02.jpg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+title: <p align="center"> Veronika Moroz </p>
+
+logo: "/images/photo_2020-10-05_18-33-02.jpg?raw=true"
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/veronika-moroz-664448107/">LinkedIn</a> |
+  <a href="https://github.com/vpetrova13n">GitHub</a> |
+  <a href="https://twitter.com/veronikapetr13">Twitter</a>
+  </p>
+  
+  <p align="justify">
   Hi! My name is Veronika and I am beginner in data industry. After graduating with Data Analysis course from CodeClan, I'm looking to start a new career in the data industry, with the hope to learn and grow as a professional in this field.
   <br><br>
-  Here you will be able to see my portfolio of data projects.
   <br><br>
-  <a href="https://www.linkedin.com/in/veronika-moroz-664448107/">View My LinkedIn Profile</a> 
+  </p>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
