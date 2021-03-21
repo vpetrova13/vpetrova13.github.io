@@ -1,8 +1,8 @@
-## Portfolio
-
+# Portfolio
 ---
+## Data Analysis Projects 
 
-### Category Name 1 
+### Personal Finance project
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -31,5 +31,4 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+<center>© 2021 Veronika Moroz. Powered by Jekyll and the Minimal Theme.</center>
