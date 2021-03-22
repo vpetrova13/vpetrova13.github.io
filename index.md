@@ -42,15 +42,20 @@ As part of Data Analysis course, we had to create a dashboard using RStudio and 
 
 As part of Data Analysis course at CodeClan, I was asked to do at least 2 tasks out of 6 for the dirty data project (task 4 was mandatory). The aim of the project was to practice data cleaning skills since it is known that 80% of time in data science and analysis is spent data cleaning.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vpetrova13/dirty_data_project_VMt)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vpetrova13/dirty_data_project_VM)
 
 ![Status](https://img.shields.io/badge/Status-Complete-success?)
 <br>
 
 ---
+### Meteorite analysis at CodeClan
 
+On the 2nd weekends of Data Analysis course, I was asked to analyse data which was taken from open source NASA about meteorites that have been found up to 2013. The project can be split up into 2 sections: data cleaning up and analysis. The analysis of data was performed using R.
 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vpetrova13/2weekend_homework_meteorites_analysis)
 
+![Status](https://img.shields.io/badge/Status-Complete-success?)
+<br>
 
 ---
 <center>© 2021 Veronika Moroz. Powered by Jekyll and the Minimal Theme.</center>
