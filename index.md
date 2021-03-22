@@ -9,7 +9,7 @@ The user can explore and visualise the annual spends and gains by categories and
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vpetrova13/annual_finances_VM)
 
 ![Status](https://img.shields.io/badge/Status-Complete-success?)
-<center><img src="images/xxx.png"/></center>
+<center><img src="images/yearly_app.png"/></center>
 ---
 ### Final project at CodeClan
 
@@ -18,7 +18,7 @@ As part of Data Analysis course at Code Clan, I had to answer the client's quest
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vpetrova13/final_project_VM)
 
 ![Status](https://img.shields.io/badge/Status-Complete-success?)
-<center><img src="images/xxx.png"/></center>
+<center><img src="images/simple_models.png"/></center>
 ---
 
 ---
