@@ -1,5 +1,6 @@
 # Portfolio
 ## Data Analysis Projects 
+Projects are presented in chronological order.
 ---
 ### Personal Finance project
 
